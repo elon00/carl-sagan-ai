@@ -1,0 +1,6 @@
+[package]
+name = "carl-sagan-ai"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
